@@ -1,0 +1,52 @@
+ 
+     
+@font-face{
+	font-family: 'Merriweather';
+	src: url('Merriweather-Light.ttf') format ('trueType');
+}
+
+*{
+	margin: 0;
+	padding:0;
+}
+
+#content{
+
+	margin:0 auto;
+	width: 980px;
+}
+
+header{
+	     	width: 100%;
+	     	height: 100px;
+	     	background: #1e2e4d;
+	     }
+ #title{
+
+ 	color:#fff;
+ 	font-size: 30px; 
+ 	font-family: 'Merriweather';
+ 	float: right;
+ 	padding-right: 50px;
+ 	line-height: 100px;
+ 	text-align: center;
+ }
+
+ #logo{
+ 	padding-left: 40px;
+ 	padding-top:  10px;
+ }
+
+ nav a{
+ 	 margin-left:10px; 
+ 	 padding-left: 10px;
+ 	 padding-right: 10px;
+	 text-decoration: none;
+	 color: white; 
+
+ }
+
+ nav {
+
+ 	background: #000;
+ }
