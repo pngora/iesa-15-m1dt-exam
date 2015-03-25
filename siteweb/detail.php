@@ -13,7 +13,7 @@
     
     <header>
       <div id="title"> Le système solaire</div>
-      <div id="logo"><img src="logo.jpg" alt="systheme"  style="width:90px;"/></div>
+      <div id="logo"><a href="index.php"><img src="logo.jpg" alt="systheme"  style="width:90px;"/></a></div>
       
     </header>
 
@@ -32,7 +32,7 @@
 
     <div class="planete">
         <img src="mercure.jpg" alt="Mercure" style="width:500px">
-        <h1>MERCURE</h1>
+        <h3>MERCURE</h3>
         <p id="description"></p>
 
     </div>
